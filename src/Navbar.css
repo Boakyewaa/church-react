@@ -1,0 +1,15 @@
+.Nav-bar {
+  background-color: #f0eff8;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.Nav-link {
+  padding: 10px;
+  text-decoration: none;
+  font-weight: 120px;
+  color: blueviolet;
+}

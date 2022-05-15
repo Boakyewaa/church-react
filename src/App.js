@@ -1,8 +1,15 @@
 
 import './App.css';
 
-function App() {
-  
-}
+import Navbar from './Navbar';
 
-export default App;
+export default function App() {
+  return (
+    <div className="Main-page">
+      <Navbar />
+     <h1>Welcome to Petroleum Worship Center</h1> 
+    </div>
+  );
+
+};
+
