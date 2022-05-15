@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: right;
   font-size: 30px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .Nav-link {
@@ -12,4 +12,7 @@
   text-decoration: none;
   font-weight: 120px;
   color: blueviolet;
+}
+.Pent-logo {
+  max-width: 70px;
 }

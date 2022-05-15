@@ -1,12 +1,16 @@
 .Main-page {
-  background-color: #041b4b;
+  background-image: url("equipping.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+  color: rgb(223, 54, 3);
 }
 
 .App-link {
