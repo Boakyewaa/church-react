@@ -9,7 +9,7 @@ export default function App() {
       <div>
         <Navbar />
       <div className="Main-page">
-        <h1>Welcome to Petroleum Worship Center</h1> 
+        <h1>Welcome to Petroleum Estate Worship Center (PEWC)</h1> 
       </div>
      
     </div>

@@ -13,4 +13,4 @@ export default function Navbar(){
             <a href="" className="Nav-link">Contact</a>
         </div>
     );
-};
+};  

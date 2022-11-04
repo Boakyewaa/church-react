@@ -1,8 +1,5 @@
 .Main-page {
-  background-image: url("equipping.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 100vh;
+
   display: flex;
   flex-direction: column;
   align-items: center;
